@@ -1,3 +1,2 @@
 # ElGamal-encryption
-На вход записывается сообщение, которое необходимо зашифровать. 
-После чего программа записывает его в файл in.txt, проводит шифрование и выдаёт зашифрованный текст, который можно расшифровать с помощью закрытого ключа(он генерируется и лежит в x.txt).
+A message is written to the input which needs to be encrypted. After that the program writes it to the file in.txt, performs encryption and outputs the encrypted text which can be decrypted using the private key (it is generated and is stored in x.txt).
